@@ -2,3 +2,16 @@ for tts
 https://miniproject.pythonanywhere.com/
 project link
 https://multimodal-harmony.netlify.app/
+
+#gtts
+You pass text and language code (like en for English, ta for Tamil).
+
+gTTS sends a request to Google’s translate text-to-speech API.
+
+Google generates the speech audio on their servers.
+
+The audio comes back, and gTTS lets you save it as MP3 or play it directly.
+#flask
+A micro web framework for Python.
+
+Purpose: runs your app on a server and handles web requests.
